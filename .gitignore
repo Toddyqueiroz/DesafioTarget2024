@@ -1,0 +1,26 @@
+# Arquivos de compilação
+*.o              # Arquivos de objeto
+*.exe            # Executáveis do Windows
+*.out            # Arquivos de saída
+*.d              # Arquivos de dependência
+
+# Diretórios de IDEs
+*.cbp            # Arquivos de projeto do Code::Blocks
+*.layout         # Layouts de projeto do Code::Blocks
+bin/             # Diretório de saída padrão para binários (ajuste conforme necessário)
+obj/             # Diretório de saída padrão para arquivos objeto (ajuste conforme necessário)
+
+# Arquivos de log
+*.log            # Arquivos de log
+
+# Arquivos temporários
+*.tmp            # Arquivos temporários
+*.bak            # Arquivos de backup
+
+# Outros
+.DS_Store        # Arquivos do sistema (macOS)
+Thumbs.db        # Arquivos do sistema (Windows)
+
+# Ignorar arquivos de configuração do Code::Blocks
+*.dep            # Arquivos de dependência do Code::Blocks
+*.user           # Arquivos de configuração do usuário do Code::Blocks
