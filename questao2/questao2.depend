@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730137274 source:c:\users\grego\onedrive\documentos\desafio target\questao2\main.c
+	<stdio.h>
+	<string.h>
+
